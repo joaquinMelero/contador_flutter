@@ -1,6 +1,5 @@
 # contador_app
-
-A new Flutter project.
+Contador de clics. Primer proyecto con Flutter
 
 ## Getting Started
 
